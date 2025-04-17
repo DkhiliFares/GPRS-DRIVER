@@ -106,9 +106,7 @@ Modify the following in `gprs_lib.h` as needed:
 
 Contributions are welcome! Please open an issue or pull request for any improvements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Example Output
 
